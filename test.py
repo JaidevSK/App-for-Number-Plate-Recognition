@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import cv2
 import  imutils
-import sys
 import pytesseract
 import pandas as pd
 from io import StringIO
