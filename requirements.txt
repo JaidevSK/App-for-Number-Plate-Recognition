@@ -4,4 +4,3 @@ opencv-python
 imutils
 pytesseract
 pandas
-io
