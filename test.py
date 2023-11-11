@@ -5,6 +5,8 @@ import  imutils
 import pytesseract
 import pandas as pd
 
+
+st.write("Number Plate Reader")
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
 
