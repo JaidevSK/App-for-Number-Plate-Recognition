@@ -2,7 +2,6 @@ streamlit
 numpy
 opencv-python
 imutils
-sys
 pytesseract
 pandas
 io
